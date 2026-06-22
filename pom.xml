@@ -47,4 +47,10 @@
 <mainClass>com.example.App</mainClass>
 </manifest>
 </archive>
-</configuration></project>
+</configuration>
+</plugin>
+</plugins>
+</pluginManagement>
+</build>
+</project>
+
